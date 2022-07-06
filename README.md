@@ -17,6 +17,11 @@ The project you are going to build for the Final Capstone Project is based on an
 
 ### Project requirements
 
+#### ERD
+
+![image](https://user-images.githubusercontent.com/11241315/177653953-3439d932-23fb-4f20-872b-7d26f8c440cf.png)
+
+
 #### Basics
 - Follow the layout of [the provided design](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign).
 
