@@ -15,9 +15,6 @@ The project you are going to build for the Final Capstone Project is based on an
  - Admin user can delete mentors.
 
 
-
-
-
 ### Project requirements
 
 #### Basics
@@ -25,7 +22,7 @@ The project you are going to build for the Final Capstone Project is based on an
 
 #### Features
 
-- **User** (name, email, password)
+- **User** (name, email, password, role)
   - Signup
   - logs in
   - Log out
