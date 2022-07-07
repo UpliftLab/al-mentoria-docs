@@ -49,7 +49,11 @@ The project you are going to build for the Final Capstone Project is based on an
    - Mentor (is filled automatically if we come from mentor detail page otherwise the user selects from dropdown)
    - Date
    - Topic
-
+   
+- links (phase two) (name, icon)
+ - user can have their links here (we also need a join table)
+ 
+ 
 - In the navigation panel
   - Mentors: to a page with the list of all mentors)
   - Reserve: to Reservation page
@@ -61,15 +65,29 @@ The project you are going to build for the Final Capstone Project is based on an
   - Delete Mentor (only for admin to get list of mentors to delete)
     - When the admin clicks the "Delete Mentor" link in the navigation panel they can see a list of all items with title and "Delete" button.
     - When the admin clicks the "Delete" button, the selected item is marked as removed and does not show on the main list anymore.
-  - Sign in / Sign out
+  - Sign in / Sign out.
+  - Topics button (only visible to the admins)
 
 - On the main page, the user can see a list of Mentors
 - When the user selects a specific mentor, they can see the details page with its full description.
-    - In the details page, the user can click the "Reserve" button
+    - In the details page, the user can click the "Reserve" button.
 
 - Make the app responsive.
 
 - Add full documentation for your API.
+
+
+### front-end pages
+ - Menu.
+ - Home page (shows a list of mentors). (social media phase two)
+ - Mentor detail page (shows the details).
+ - Add mentor page (for admins).
+ - Authentication pages (Sign-up page, log-in page).
+ - Reservastion page ( form that lets you make a reservation).
+ - My-Reservations page ( shows all reservations made by the user, plus delete button).
+ - Topics page (only accessible to the admins, they can see all the topics, and add new ones)
+ - Who are we? ( Al-metoria ).
+ 
 
 ### Workload distribution
 
